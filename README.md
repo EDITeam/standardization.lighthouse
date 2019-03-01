@@ -1,5 +1,11 @@
-# **standardization.lighthouse**
+<p align="center">
+  <a href="https://github.com/EDITeam/standardization.lighthouse"><img src="./static/lighthouse.png" width="160" alt="Lighthouse's logo" /></a>
+</p>
+<h3 align="center"><a href="https://github.com/EDITeam/standardization.lighthouse">Lighthouse</a></h3>
 
+# **Lighthouse**
+
+## **Overview**
 
 ## **Table of Contents**
 
@@ -29,3 +35,14 @@
 [![](https://api.gh-polls.com/poll/01D4KWC7PZ66P0JBD05SPH6XXQ/JavaScript%26TypeScript)](https://api.gh-polls.com/poll/01D4KWC7PZ66P0JBD05SPH6XXQ/JavaScript%26TypeScript/vote)
 [![](https://api.gh-polls.com/poll/01D4KWC7PZ66P0JBD05SPH6XXQ/Python)](https://api.gh-polls.com/poll/01D4KWC7PZ66P0JBD05SPH6XXQ/Python/vote)
 [![](https://api.gh-polls.com/poll/01D4KWC7PZ66P0JBD05SPH6XXQ/Other%20lang)](https://api.gh-polls.com/poll/01D4KWC7PZ66P0JBD05SPH6XXQ/Other%20lang/vote)
+
+## ***Thanks***
+[EDITeam](https://github.com/EDITeam)
+
+[Pancy.Fan](https://github.com/fancys)
+
+[Aaton.Kang](https://github.com/Aton5859)
+
+[Shuo.Liu](https://github.com/LsKeke)
+
+[Harold.Duan](https://github.com/haroldduan)
