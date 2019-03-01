@@ -1,6 +1,19 @@
-# standardization.lighthouse
+# **standardization.lighthouse**
 
-# ***Vote***
+
+## **Table of Contents**
+
++ Statute
+    + [Java](./开发规约/java编程规约.md 'Java')
+    + [JS&TS](./开发规约/js编程规约.md 'JS&TS')
+    + [Python](./开发规约/python编程规约.md 'Python')
+    + [CodingSpec](./开发规约/代码规范.md 'Spec')
+        + [Section-Message](./开发规约/消息篇.md 'Msg')
+
++ Standardization
+    + [EDI](./标准化/EDI总体设计.md 'EDI')
+
+## ***Vote***
 
 🎉Vote your😎 hobbies🎉
 
