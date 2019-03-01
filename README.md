@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/EDITeam/standardization.lighthouse"><img src="./static/lighthouse.png" width="160" alt="Lighthouse's logo" /></a>
+  <a href="https://github.com/EDITeam/standardization.lighthouse"><img src="/static/lighthouse.png" width="160" alt="Lighthouse's logo" /></a>
 </p>
 <h3 align="center"><a href="https://github.com/EDITeam/standardization.lighthouse">Lighthouse</a></h3>
 
