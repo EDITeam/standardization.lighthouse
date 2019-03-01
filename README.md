@@ -37,12 +37,12 @@
 [![](https://api.gh-polls.com/poll/01D4KWC7PZ66P0JBD05SPH6XXQ/Other%20lang)](https://api.gh-polls.com/poll/01D4KWC7PZ66P0JBD05SPH6XXQ/Other%20lang/vote)
 
 ## ***Thanks***
-[EDITeam](https://github.com/EDITeam)
-
-[Pancy.Fan](https://github.com/fancys)
-
-[Aaton.Kang](https://github.com/Aton5859)
-
-[Shuo.Liu](https://github.com/LsKeke)
-
-[Harold.Duan](https://github.com/haroldduan)
+<h3 align="center">
+  <a href="https://github.com/EDITeam">EDITeam</a>
+</h3>
+<p align="center">
+  <a href="https://github.com/haroldduan"><img src="https://avatars2.githubusercontent.com/u/16353458?s=400&v=4" width="70" alt="Harold.Duan" /></a>
+  <a href="https://github.com/fancys"><img src="https://avatars3.githubusercontent.com/u/4202696?s=400&v=4" width="70" alt="Pancy.Fan" /></a>
+  <a href="https://github.com/Aton5859"><img src="https://avatars2.githubusercontent.com/u/28555389?s=400&v=4" width="70" alt="Aaton.Kang" /></a>
+  <a href="https://github.com/LsKeke"><img src="https://avatars1.githubusercontent.com/u/45222954?s=400&v=4" width="70" alt="Shuo.Liu" /></a>
+</p>
