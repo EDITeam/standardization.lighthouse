@@ -16,8 +16,19 @@
 
 【强制】尽量采用单词全拼，不要嫌名字过长而使用不知所谓的简写。如：abstract : abs ; condition : cond。
 
+【推荐】接口建议以service或able结尾
 
 ## 代码风格
+
+【强制】严禁出现魔法值（未经预先定义的常量值）在任何地方。
+[反例]
+```java
+    String key = "Id#EDIId_" + docEntry;
+```
+
+【强制】为方便和EDI平台对接，主键值使用Long类型，原来的Integer类型的DocEntry将被替换。
+
+【强制】
 
 【强制】对于类：DO / BO / VO / DTO / PO /  UID 要有注释，其他类视情况而定；方法一定要有注释。注释包括参数、返回值注释和方法作用注释。
 
@@ -70,6 +81,13 @@
     // do something
 ```
 
+
+
 ## 异常
+
+
+
+
+## 依赖包
 
 
