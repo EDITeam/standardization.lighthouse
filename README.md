@@ -43,10 +43,10 @@
 </a>
 
 ## ***Thanks***
-<h3 align="center">
+<h3 align="left">
   <a href="https://github.com/EDITeam">EDITeam</a>
 </h3>
-<p align="center">
+<p align="left">
   <a href="https://github.com/haroldduan"><img src="https://avatars2.githubusercontent.com/u/16353458?s=400&v=4" width="70" alt="Harold.Duan" /></a>
   <a href="https://github.com/fancys"><img src="https://avatars3.githubusercontent.com/u/4202696?s=400&v=4" width="70" alt="Pancy.Fan" /></a>
   <a href="https://github.com/Aton5859"><img src="https://avatars2.githubusercontent.com/u/28555389?s=400&v=4" width="70" alt="Aaton.Kang" /></a>
