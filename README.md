@@ -40,6 +40,7 @@
 <a href="https://github.com/EDITeam/standardization.lighthouse/graphs/contributors">
   <img src="https://avatars2.githubusercontent.com/u/16353458?s=400&v=4" width="70" alt="Harold.Duan" />
   <img src="https://avatars3.githubusercontent.com/u/4202696?s=400&v=4" width="70" alt="Pancy.Fan" />
+  <img src="https://avatars2.githubusercontent.com/u/28555389?s=400&v=4" width="70" alt="Aaton.Kang" />
 </a>
 
 ## ***Thanks***
