@@ -296,3 +296,25 @@ set counter = 1
         select * from ...;
     end;
     ```
+
+## 构建者
+
+> ”感谢我的团队，他们是最好的团队！“
+
+<h3 align="left">
+  <a href="https://github.com/EDITeam">EDITeam</a>
+</h3>
+<p align="left">
+  <a href="https://github.com/haroldduan"><img src="https://avatars2.githubusercontent.com/u/16353458?s=400&v=4" width="70" alt="Harold.Duan" /></a>
+  <a href="https://github.com/fancys"><img src="https://avatars3.githubusercontent.com/u/4202696?s=400&v=4" width="70" alt="Pancy.Fan" /></a>
+  <a href="https://github.com/Aton5859"><img src="https://avatars2.githubusercontent.com/u/28555389?s=400&v=4" width="70" alt="Aaton.Kang" /></a>
+  <a href="https://github.com/LsKeke"><img src="https://avatars1.githubusercontent.com/u/45222954?s=400&v=4" width="70" alt="Shuo.Liu" /></a>
+</p>
+
+## 授权
+
+本指南基于 [MIT license](https://opensource.org/licenses/MIT) 授权许可。
+
+## 特别鸣谢
+
+[Ruby-China](https://ruby-china.org)
