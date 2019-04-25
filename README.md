@@ -3,7 +3,7 @@
 </p>
 <h3 align="center"><a href="https://github.com/EDITeam/standardization.lighthouse">Lighthouse</a></h3>
 
-# **Lighthouse** ![progress](http://progressed.io/bar/7?title=done) ![version](https://img.shields.io/badge/version-0.2.0-blue.svg?cacheSeconds=2592000) ![license](https://img.shields.io/badge/license-MIT-green.svg) ![date](https://img.shields.io/date/1551148020.svg) ![release](https://img.shields.io/github/release/EDITeam/standardization.lighthouse.svg)
+# **Lighthouse** ![progress](http://progressed.io/bar/9?title=done) ![version](https://img.shields.io/badge/version-0.2.0-blue.svg?cacheSeconds=2592000) ![license](https://img.shields.io/badge/license-MIT-green.svg) ![date](https://img.shields.io/date/1551148020.svg) ![release](https://img.shields.io/github/release/EDITeam/standardization.lighthouse.svg)
 
 ## **Overview**
 
@@ -15,7 +15,7 @@
     + [Python](./开发规约/python编程规约.md 'Python')
     + [CodingSpec](./开发规约/代码规范.md 'Spec')
         + [Section-Message](./开发规约/消息篇.md 'Msg')
-    + [Other-Lang]
+    + Other-Lang
         + [SQL](./开发规约/sql编程规约.md 'SQL')
 
 + Standardization
