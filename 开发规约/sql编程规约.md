@@ -74,7 +74,7 @@ begin
 -- 垃圾
 SelEct * FroM "OITM"; 
 
--- 可以接受
+-- 可以接受
 SELECT * FROM "OITM";
 
 -- 好
