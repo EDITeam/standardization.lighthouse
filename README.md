@@ -3,7 +3,7 @@
 </p>
 <h3 align="center"><a href="https://github.com/EDITeam/standardization.lighthouse">Lighthouse</a></h3>
 
-# **Lighthouse** ![progress](http://progressed.io/bar/7?title=done) ![version](https://img.shields.io/badge/version-0.1.1-blue.svg?cacheSeconds=2592000) ![license](https://img.shields.io/badge/license-MIT-green.svg) ![date](https://img.shields.io/date/1551148020.svg) ![release](https://img.shields.io/github/release/EDITeam/standardization.lighthouse.svg)
+# **Lighthouse** ![progress](http://progressed.io/bar/7?title=done) ![version](https://img.shields.io/badge/version-0.2.0-blue.svg?cacheSeconds=2592000) ![license](https://img.shields.io/badge/license-MIT-green.svg) ![date](https://img.shields.io/date/1551148020.svg) ![release](https://img.shields.io/github/release/EDITeam/standardization.lighthouse.svg)
 
 ## **Overview**
 
