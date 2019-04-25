@@ -15,6 +15,8 @@
     + [Python](./开发规约/python编程规约.md 'Python')
     + [CodingSpec](./开发规约/代码规范.md 'Spec')
         + [Section-Message](./开发规约/消息篇.md 'Msg')
+    + [Other-Lang]
+        + [SQL](./开发规约/sql编程规约.md 'SQL')
 
 + Standardization
     + [EDI](./标准化/EDI总体设计.md 'EDI')
