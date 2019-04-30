@@ -164,7 +164,7 @@ AVA_SP_SALES_ORDER.sql
 AVA_SP_SalesOrder.sql
 ```
 
-* 关于SQL方言区分版本命名，建议讲SQL方言名称缩写后缀于脚本名后，MSSQL为默认SQL方言，可以不写后缀。
+* 关于SQL方言区分版本命名，建议将SQL方言名称缩写后缀于脚本名后，MSSQL为默认SQL方言，可以不写后缀。
 
 以**尖叫蛇底式**命名法为例
 
