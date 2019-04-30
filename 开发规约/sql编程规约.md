@@ -108,7 +108,7 @@ select * from OITM;
 select * from "OITM";
 ```
 
-* SQL 中的实体请严格区分大小
+* SQL 中的实体请严格区分大小写
 
 ``` sql
 -- 垃圾
