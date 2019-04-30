@@ -142,6 +142,119 @@ select * from "OITM" where "AvgPrice" > 100;
 > 程式设计的真正难题是替事物命名及使缓存失效。  
 > -- Phil Karlton 网景高级程序员
 
+* 所有的命名以**英文**作为基础
+
+``` sql
+-- 差
+AVA_SP_Xiaoshoudingdan
+
+-- 好
+AVA_SP_SalesOrder
+```
+
+> 这年头楼下卖煎饼的都说Alipay了，你告诉我他叫Zhifubao？？？
+
+* 脚本 ***.sql*** 文件命名，建议使用**尖叫蛇底式**命名法或**尖叫蛇底式** + **驼峰大写式**命名法
+
+``` sql
+--尖叫蛇底式 (MSSQL)
+AVA_SP_SALES_ORDER.sql
+
+--尖叫蛇底式 + 驼峰大写式 (MSSQL)
+AVA_SP_SalesOrder.sql
+```
+
+* 关于SQL方言区分版本命名，建议讲SQL方言名称缩写后缀于脚本名后，MSSQL为默认SQL方言，可以不写后缀。
+
+以**尖叫蛇底式**命名法为例
+
+``` sql
+-- MSSQL
+AVA_SP_SALES_ORDER_MSSQL.sql 或 AVA_SP_SALES_ORDER.sql
+
+-- HANA
+AVA_SP_SALES_ORDER_HANA.sql
+
+-- MySQL
+AVA_SP_SALES_ORDER_MYSQL.sql
+
+-- Postgre
+AVA_SP_SALES_ORDER_POSTG.sql
+
+-- sqlite
+AVA_SP_SALES_ORDER_SQLITE.sql
+
+...
+
+```
+
+* SQL实体：**视图**、**存储过程**、**函数**、**触发器**...建议以**尖叫蛇底式**命名法或**尖叫蛇底式** + **驼峰大写式**命名法命名
+
+``` sql
+--尖叫蛇底式 (MSSQL)
+AVA_SP_SALES_ORDER
+
+--尖叫蛇底式 + 驼峰大写式 (MSSQL)
+AVA_SP_SalesOrder
+```
+
+* **视图**、**存储过程**、**函数**、**触发器**...的缩写(***大写***)作为词缀放置于**AVA_**之后，针对于研发人员，建议将**模块**名缩写作为中缀加入命名中
+
+``` sql
+-- 视图 View
+AVA_ + VIEW_
+
+-- 存储过程 Store Procedure
+AVA_ + SP_
+
+-- 函数 Function
+-- 标量函数
+AVA_ + FN_
+
+-- 表值函数
+AVA_ + TF_
+
+...
+```
+
+* **实体表**名建议以**驼峰大写式**或(诸如 ***SAP Business One*** 式)**单词缩写式**，针对于研发人员，建议将**模块**名缩写作为中缀加入命名中
+
+``` sql
+-- 驼峰大写式
+AVA_SalesOrder 或 AVA_SM_Sales_Order (SM:Sales Management)
+
+-- 单词缩写式
+AVA_ORDR 或 AVA_SM_ORDR (SM:Sales Management)
+```
+
+* **列**名建议以**驼峰大写式**或(诸如 ***SAP Business One*** 式)**单词缩写式**进行命名
+
+``` sql
+-- 驼峰大写式
+WarehouseCode
+
+-- 单词缩写式
+WhsCode
+```
+
+* **变量**命名建议以**蛇底式**或**驼峰大写式**进行命名，强烈推荐**蛇底式**。注，MSSQL的局部变量以 **@** 开始
+
+``` sql
+-- MSSQL
+-- 蛇底式
+declare @row_counter int;
+
+-- 驼峰大写式
+declare @RowCounter int;
+
+-- HANA
+-- 蛇底式
+declare row_counter int;
+
+-- 驼峰大写式
+declare RowCounter int;
+```
+
 ## 注释
 
 > 良好的代码自身就是最佳的文档。当你要添加一个注释时，扪心自问，“如何改善代码让它不需要注释？” 改善代码，再写相应文档使之更清楚。  
