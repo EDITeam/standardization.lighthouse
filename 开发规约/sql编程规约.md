@@ -152,7 +152,7 @@ AVA_SP_Xiaoshoudingdan
 AVA_SP_SalesOrder
 ```
 
-> 这年头楼下卖煎饼的都说Alipay了，你告诉我他叫Zhifubao？？？
+> 这年头楼下卖煎饼的都说Alipay了，你告诉我它叫Zhifubao？？？
 
 * 脚本 ***.sql*** 文件命名，建议使用**尖叫蛇底式**命名法或**尖叫蛇底式** + **驼峰大写式**命名法
 
